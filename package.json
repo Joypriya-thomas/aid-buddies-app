@@ -1,0 +1,19 @@
+
+{
+  "name": "aid-buddies",
+  "version": "1.0.0",
+  "description": "A kid-friendly first aid learning app",
+  "main": "src/App.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.278.0",
+    "framer-motion": "^11.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.0.0"
+  }
+}
